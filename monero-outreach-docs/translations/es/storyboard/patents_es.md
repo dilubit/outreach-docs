@@ -2,7 +2,7 @@
 
 **Cómo podrían impactar las patentes a Monero y qué puede hacer la comunidad. - 25 de febrero, 2021**
 
-Las patentes relacionadas con Monero han sido noticia recientemente cuando CipherTrace anunció la presentación de dos solicitudes de patente para tecnología de rastreo del flujo de fondos de Monero [[1]](https://www.monerooutreach.org/stories/monero-patents.html#b1). Los medios de comunicación siguieron, incluyendo artículos con títulos alarmantes como, “¿No más monedas de privacidad? CipherTrace registra patentes para rastrear transacciones de Monero” [[2]](https://www.monerooutreach.org/stories/monero-patents.html#b2). Esta publicidad produjo una preocupación sobre CipherTrace y otras patentes, y cómo ellas podrían impactar en el desarrollo de Monero. Este artículo revisa el proceso de las patentes en Estados Unidos, cómo estas podrían impactar a Monero y lo que la comunidad podría hacer sobre ello.
+Las patentes relacionadas con Monero han sido noticia recientemente cuando CipherTrace anunció la presentación de dos solicitudes de patente para tecnología de rastreo del flujo de fondos de Monero [[1]](https://www.monerooutreach.org/stories/monero-patents.html#b1). Los medios de comunicación incluyeron artículos con títulos alarmantes como, “¿No más monedas de privacidad? CipherTrace registra patentes para rastrear transacciones de Monero” [[2]](https://www.monerooutreach.org/stories/monero-patents.html#b2). Esta publicidad produjo una preocupación sobre CipherTrace y otras patentes, y cómo ellas podrían impactar en el desarrollo de Monero. Este artículo analiza el proceso de patenatamiento en Estados Unidos, cómo éstas podrían impactar a Monero y lo que la comunidad puede hacer.
 
 ### _El proceso de patente de EEUU_
 
